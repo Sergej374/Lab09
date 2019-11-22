@@ -1,0 +1,9 @@
+C:\Users\user04\Desktop\374\Безуглый\SQL\bin\Debug\SQL.exe.config
+C:\Users\user04\Desktop\374\Безуглый\SQL\bin\Debug\SQL.exe
+C:\Users\user04\Desktop\374\Безуглый\SQL\bin\Debug\SQL.pdb
+C:\Users\user04\Desktop\374\Безуглый\SQL\obj\Debug\SQL.csprojResolveAssemblyReference.cache
+C:\Users\user04\Desktop\374\Безуглый\SQL\obj\Debug\SQL.Form1.resources
+C:\Users\user04\Desktop\374\Безуглый\SQL\obj\Debug\SQL.Properties.Resources.resources
+C:\Users\user04\Desktop\374\Безуглый\SQL\obj\Debug\SQL.csproj.GenerateResource.Cache
+C:\Users\user04\Desktop\374\Безуглый\SQL\obj\Debug\SQL.exe
+C:\Users\user04\Desktop\374\Безуглый\SQL\obj\Debug\SQL.pdb

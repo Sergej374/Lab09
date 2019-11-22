@@ -1,0 +1,15 @@
+USE [g374_L09_BezuglyiSergeiD];
+GO
+
+CREATE TABLE [l09_planets](
+PlanetName NVARCHAR(50),
+DistanceFromSun FLOAT,
+Inhabitants NVARCHAR(50)
+);
+
+INSERT INTO [l09_planets] VALUES ('Меркурий', 57909, 'Меркуриане');
+INSERT INTO [l09_planets] VALUES ('Венера', 108200, 'Венериане');
+INSERT INTO [l09_planets] VALUES ('Земля', 149600, 'Земляне');
+
+
+Data Source=127.0.0.1;Initial Catalog=g374_L09_BezuglyiSergeyD;Persist Security Info=True;User ID=student
